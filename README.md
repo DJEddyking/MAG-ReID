@@ -4,34 +4,34 @@ an official code for MAG-ReID
 
 ## framework
 
-)![framework](figures/main.png)
+![framework](figures/main.png)
 
 
 ## results
 
 ### ORBench
 
-)![img](figures/result_orbench.png)
+![img](figures/result_orbench.png)
 
 ### PKU-Sketch
 
-)![img](figures/result_pku.png)
+![img](figures/result_pku.png)
 
 ### CUHK-PEDES, ICFG-PEDES, RSTP-reid
 
-)![img](figures/result_three_pedes.png)
+![img](figures/result_three_pedes.png)
 
 ### RGBNT201
 
-)![img](figures/result_rgbnt.png)
+![img](figures/result_rgbnt.png)
 
 ## Visulization
 
-)![img](figures/vis_tsne.png)
+![img](figures/vis_tsne.png)
 
-)![img](figures/vis_grad_cam.png)
+![img](figures/vis_grad_cam.png)
 
-)![img](figures/vis_rank.png)
+![img](figures/vis_rank.png)
 
 ## `Acknowledgement`
 
