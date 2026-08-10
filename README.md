@@ -8,19 +8,12 @@ an official code for MAG-ReID
 * [x] Release the evaluation code.
 * [x] Release configuration files.
 * [x] Add visualization results.
-* [x] Release pretrained models.
+* [ ] Release pretrained models.
 
 ## Weights and Training logs
-### ORBench
-![xfxxx]()
+[ORBench](https://pan.quark.cn/s/1b97789e8355?pwd=J3U1)
 
-### PKU-Sketch
-
-### CUHK-PEDES, ICFG-PEDES, RSTP-reid
-
-### RGBNT201
-
-
+Others are coming soon.
 
 ## Training & Evaluation
 
