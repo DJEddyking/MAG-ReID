@@ -2,6 +2,49 @@
 
 an official code for MAG-ReID
 
+## To-Do List
+
+* [x] Release the training code.
+* [x] Release the evaluation code.
+* [x] Release configuration files.
+* [x] Add visualization results.
+* [x] Release pretrained models.
+
+## Weights and Training logs
+### ORBench
+![xfxxx]()
+
+### PKU-Sketch
+
+### CUHK-PEDES, ICFG-PEDES, RSTP-reid
+
+### RGBNT201
+
+
+
+## Training & Evaluation
+
+### Training
+
+To train MAG-ReID, run:
+
+```bash
+python train.py # all the settings are in utils/options.py
+```
+
+Please modify the configuration file according to the target dataset and experimental setting.
+
+### Evaluation
+
+To evaluate a trained model, run:
+
+```bash
+python test.py 
+```
+
+The evaluation results, including **Rank-1** and **mAP**, will be reported automatically.
+
+
 ## framework
 
 ![framework](figures/main.png)
